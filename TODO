@@ -1,0 +1,1 @@
+# Please dont`t forget to use \n in printf, cause if there is segfault your io buffer will not be flushed
